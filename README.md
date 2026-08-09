@@ -1,1 +1,1 @@
-This project was made to construct and code a kitchen timer using pico 2 w, and lcd display, and a 4x4 keypad. Using code avaible from other people on github for the lcd and keypad to better code it for this porject.
+
